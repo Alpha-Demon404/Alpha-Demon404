@@ -45,7 +45,7 @@
 <p align="center">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Alpha-Demon404&show_icons=true&theme=chartreuse-dark&locale=id">
 </p>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=cyberdemon404&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Alpha-Demon404&theme=dark&hide_border=true" width = 400>
 </p>
 
 ### Languages
