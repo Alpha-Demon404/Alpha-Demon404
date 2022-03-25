@@ -41,12 +41,6 @@
      
 <img align='Demon' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450" />
 
-![header_](https://user-images.githubusercontent.com/77473259/128132436-d8e852dd-bc5b-41a2-9ce4-46b6aad27ad8.png)
-<p align="center">
-  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Alpha-Demon404&show_icons=true&theme=chartreuse-dark&locale=id">
-</p>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Alpha-Demon404&theme=dark&hide_border=true" width = 400>
-</p>
 
 ### Languages
 
