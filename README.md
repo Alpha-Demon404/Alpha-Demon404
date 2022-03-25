@@ -2,10 +2,10 @@
 
 <img src="https://img.shields.io/badge/MY GITHUB-WELCOME-76B900?style=for-the-badge&logo=github&logoColor=white" /> 
 
-``` 
-  I AM AN ALPHA DEMON
+
+  <p>I AM AN ALPHA DEMON</p>
 <marquee>I am a certified ethical hacker</marquee> 
-```
+
 
 <br>
 <p align="center">
@@ -39,13 +39,13 @@
 <br>
 
      
-<img align='kanan' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450" />
+<img align='Demon' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450" />
 
 ![header_](https://user-images.githubusercontent.com/77473259/128132436-d8e852dd-bc5b-41a2-9ce4-46b6aad27ad8.png)
 <p align="center">
-  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=KangProf&show_icons=true&theme=chartreuse-dark&locale=id">
+  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Alpha-Demon404&show_icons=true&theme=chartreuse-dark&locale=id">
 </p>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=KangProf&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=cyberdemon404&theme=dark&hide_border=true" width = 400>
 </p>
 
 ### Languages
